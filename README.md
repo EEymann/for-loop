@@ -1,4 +1,4 @@
-# _While Loop_
+# _The for loop_
 
 #### _This short program demonstrates how to write a for loop using a simple random number generator function. August 2020_
 
